@@ -1,0 +1,2 @@
+module LoginCoachHelper
+end
